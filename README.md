@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Micheal Ehapa 
 
+
 ## 💫 About Me:
 I am a Frontend Developer with hands-on experience building responsive web applications using React, Next.js, and Tailwind CSS. I’m skilled at converting Figma designs into pixel-perfect, functional interfaces and use Git and GitHub for version control. I write clean, maintainable code and continuously learn new tools to improve my development workflow.
 
